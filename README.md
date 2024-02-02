@@ -24,4 +24,10 @@
   <a href="https://www.linkedin.com/in/fabio-costa-86037896/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+<div>
+<a href="https://github.com/devfabioc">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfabioc&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 ![devfabioc GitHub stats](https://github-readme-stats.vercel.app/api?username=devfabioc&show_icons=true&theme=radical)
+
