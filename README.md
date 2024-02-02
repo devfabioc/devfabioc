@@ -1,4 +1,4 @@
-# - 👋 Olá, sou Fabio Costa!
+# 👋 Olá, sou Fabio Costa!
 - 👀 Sou desenvolvedor fullstack!
 - 🌱 Atualmente estou programando em JAVA, lecionando cursos na área de tecnologia.
 - 💞️ Estudando uma nova linguagem, C#!!
