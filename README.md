@@ -10,13 +10,18 @@ Minha trajetória na educação também fortaleceu minhas habilidades em resolu�
 
 ## 🚀 Tecnologias
 
-- Java 21
-- Spring Boot
-- MySQL
-- SQL
-- APIs REST
-- JavaScript
-- Git e GitHub
+<div align="center">
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot"/>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
+</div>
+
+<p align="center">
+  Java 21 • Spring Boot • MySQL • JavaScript • Git • GitHub • APIs REST
+</p>
 
 ## 💻 Projetos
 
